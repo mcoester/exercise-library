@@ -1,0 +1,1960 @@
+[
+    {
+        "name": "3/4 Sit-Up",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf den Boden und fixieren Sie Ihre Füße. Ihre Beine sollten in den Knien gebeugt sein.",
+            "Legen Sie Ihre Hände hinter oder seitlich an Ihren Kopf. Sie beginnen mit dem Rücken auf dem Boden. Dies ist Ihre Ausgangsposition.",
+            "Beugen Sie Ihre Hüften und Wirbelsäule, um Ihren Oberkörper in Richtung Ihrer Knie anzuheben.",
+            "Am Höhepunkt der Kontraktion sollte Ihr Oberkörper senkrecht zum Boden stehen. Kehren Sie die Bewegung um und gehen Sie nur zu ¾ des Weges nach unten.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "3_4_Sit-Up/0.jpg",
+            "3_4_Sit-Up/1.jpg"
+        ],
+        "id": "3_4_Sit-Up"
+    },
+    {
+        "name": "Ab Crunch Machine",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Wählen Sie einen leichten Widerstand und setzen Sie sich auf die Bauchmaschine, legen Sie Ihre Füße unter die vorgesehenen Polster und greifen Sie die oberen Griffe. Ihre Arme sollten in einem 90-Grad-Winkel gebeugt sein, während Sie die Trizeps auf den vorgesehenen Polstern ablegen. Dies ist Ihre Ausgangsposition.",
+            "Beginnen Sie gleichzeitig, die Beine anzuheben, während Sie Ihren Oberkörper zusammenziehen (crunchen). Atmen Sie bei dieser Bewegung aus. Tipp: Achten Sie auf eine langsame und kontrollierte Bewegung. Konzentrieren Sie sich darauf, Ihre Bauchmuskeln zum Bewegen des Gewichts einzusetzen, während Sie Ihre Beine und Füße entspannen.",
+            "Nach einer Sekunde Pause kehren Sie langsam zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie die Bewegung für die vorgeschriebene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Ab_Crunch_Machine/0.jpg",
+            "Ab_Crunch_Machine/1.jpg"
+        ],
+        "id": "Ab_Crunch_Machine"
+    },
+    {
+        "name": "Ab Roller",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "shoulders"
+        ],
+        "instructions": [
+            "Halten Sie den Bauchroller (Ab Roller) mit beiden Händen und knien Sie sich auf den Boden.",
+            "Platzieren Sie den Bauchroller vor sich auf dem Boden, sodass Sie sich auf allen Vieren befinden (wie in einer knienden Liegestützposition). Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie den Bauchroller langsam geradeaus nach vorne und strecken Sie Ihren Körper in eine gerade Position. Tipp: Gehen Sie so weit nach unten, wie Sie können, ohne den Boden mit Ihrem Körper zu berühren. Atmen Sie während dieses Teils der Bewegung ein.",
+            "Nach einer kurzen Pause in der gestreckten Position beginnen Sie, sich selbst zur Ausgangsposition zurückzuziehen, während Sie ausatmen. Tipp: Gehen Sie langsam vor und halten Sie Ihre Bauchmuskeln jederzeit angespannt."
+        ],
+        "category": "strength",
+        "images": [
+            "Ab_Roller/0.jpg",
+            "Ab_Roller/1.jpg"
+        ],
+        "id": "Ab_Roller"
+    },
+    {
+        "name": "Advanced Kettlebell Windmill",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "kettlebells",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "shoulders"
+        ],
+        "instructions": [
+            "Clean und Pressen Sie eine Kettlebell über Kopf mit einem Arm.",
+            "Halten Sie die Kettlebell jederzeit gesperrt und schieben Sie Ihr Gesäß in Richtung der gesperrten Kettlebell. Halten Sie den nicht arbeitenden Arm hinter Ihrem Rücken und drehen Sie Ihre Füße in einem fünfundvierzig Grad Winkel vom Arm mit der Kettlebell.",
+            "Senken Sie sich so weit wie möglich ab.",
+            "Halten Sie eine Sekunde inne und kehren Sie die Bewegung zurück zur Ausgangsposition."
+        ],
+        "category": "strength",
+        "images": [
+            "Advanced_Kettlebell_Windmill/0.jpg",
+            "Advanced_Kettlebell_Windmill/1.jpg"
+        ],
+        "id": "Advanced_Kettlebell_Windmill"
+    },
+    {
+        "name": "Air Bike",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, wobei Ihr unterer Rücken auf den Boden gedrückt wird. Für diese Übung müssen Sie Ihre Hände neben Ihren Kopf legen. Achten Sie jedoch darauf, den Nacken während der Ausführung nicht zu belasten. Heben Sie nun Ihre Schultern in die Crunch-Position.",
+            "Bringen Sie die Knie so weit nach oben, dass sie senkrecht zum Boden stehen, wobei Ihre Unterschenkel parallel zum Boden sind. Dies ist Ihre Ausgangsposition.",
+            "Gehen Sie nun gleichzeitig langsam eine Fahrradbewegung durch, indem Sie mit dem rechten Bein nach vorne treten und das Knie des linken Beins heranziehen. Bringen Sie Ihren rechten Ellbogen durch eine seitliche Crunch-Bewegung nah an Ihr linkes Knie, während Sie ausatmen.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Crunchen Sie zur gegenüberliegenden Seite, während Sie Ihre Beine in einer Fahrradbewegung bewegen und Ihren linken Ellbogen näher an Ihr rechtes Knie bringen und ausatmen.",
+            "Fahren Sie abwechselnd auf diese Weise fort, bis alle empfohlenen Wiederholungen für jede Seite abgeschlossen sind."
+        ],
+        "category": "strength",
+        "images": [
+            "Air_Bike/0.jpg",
+            "Air_Bike/1.jpg"
+        ],
+        "id": "Air_Bike"
+    },
+    {
+        "name": "Alternate Heel Touchers",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich mit gebeugten Knien und den Füßen etwa 45-60 cm voneinander entfernt auf den Boden. Ihre Arme sollten seitlich ausgestreckt sein. Dies ist Ihre Ausgangsposition.",
+            "Crunchen Sie Ihren Oberkörper um etwa 8-10 cm nach vorne und oben zur rechten Seite und berühren Sie Ihre rechte Ferse, während Sie die Kontraktion eine Sekunde lang halten. Atmen Sie während dieser Bewegung aus.",
+            "Kehren Sie nun langsam zur Ausgangsposition zurück, während Sie einatmen.",
+            "Crunchen Sie Ihren Oberkörper um etwa 8-10 cm nach vorne und oben zur linken Seite und berühren Sie Ihre linke Ferse, während Sie die Kontraktion eine Sekunde lang halten. Atmen Sie während dieser Bewegung aus und kehren Sie dann zur Ausgangsposition zurück, während Sie einatmen. Da nun beide Fersen berührt wurden, gilt dies als 1 Wiederholung.",
+            "Fahren Sie abwechselnd auf diese Weise fort, bis alle vorgeschriebenen Wiederholungen abgeschlossen sind."
+        ],
+        "category": "strength",
+        "images": [
+            "Alternate_Heel_Touchers/0.jpg",
+            "Alternate_Heel_Touchers/1.jpg"
+        ],
+        "id": "Alternate_Heel_Touchers"
+    },
+    {
+        "name": "Barbell Ab Rollout",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back",
+            "shoulders"
+        ],
+        "instructions": [
+            "Für diese Übung müssen Sie sich in eine Liegestützposition begeben, aber anstatt Ihre Hände auf dem Boden zu haben, greifen Sie stattdessen eine Olympische Langhantel (mit 2,5-5 kg auf jeder Seite beladen). Dies ist Ihre Ausgangsposition.",
+            "Während Sie Ihren Rücken leicht gewölbt halten, heben Sie Ihre Hüften an und rollen Sie die Langhantel zu Ihren Füßen, während Sie ausatmen. Tipp: Während der Ausführung der Bewegung sollten Ihre Gesäßmuskeln nach oben kommen, Sie sollten Ihre Bauchmuskeln angespannt halten und Ihre Rückenhaltung jederzeit beibehalten. Auch Ihre Arme sollten während der gesamten Bewegung senkrecht zum Boden bleiben. Wenn nicht, trainieren Sie Ihre Schultern und Ihren Rücken mehr als die Bauchmuskeln.",
+            "Nach einer kurzen Kontraktion oben beginnen Sie, die Langhantel langsam wieder nach vorne zur Ausgangsposition zu rollen, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Barbell_Ab_Rollout/0.jpg",
+            "Barbell_Ab_Rollout/1.jpg"
+        ],
+        "id": "Barbell_Ab_Rollout"
+    },
+    {
+        "name": "Barbell Ab Rollout - On Knees",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back",
+            "shoulders"
+        ],
+        "instructions": [
+            "Halten Sie eine Olympische Langhantel, die mit 2,5-5 kg auf jeder Seite beladen ist, und knien Sie auf dem Boden.",
+            "Legen Sie die Langhantel vor sich auf den Boden, sodass Sie sich auf allen Vieren befinden (wie in einer knienden Liegestützposition). Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie die Langhantel langsam geradeaus nach vorne und strecken Sie Ihren Körper in eine gerade Position. Tipp: Gehen Sie so weit nach unten, wie Sie können, ohne den Boden mit Ihrem Körper zu berühren. Atmen Sie während dieses Teils der Bewegung ein.",
+            "Nach einer kurzen Pause in der gestreckten Position beginnen Sie, sich selbst zur Ausgangsposition zurückzuziehen, während Sie ausatmen. Tipp: Gehen Sie langsam vor und halten Sie Ihre Bauchmuskeln jederzeit angespannt."
+        ],
+        "category": "strength",
+        "images": [
+            "Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+            "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
+        ],
+        "id": "Barbell_Ab_Rollout_-_On_Knees"
+    },
+    {
+        "name": "Barbell Rollout from Bench",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "lats",
+            "shoulders"
+        ],
+        "instructions": [
+            "Legen Sie eine beladene Langhantel auf den Boden, nahe dem Ende einer Bank. Knien Sie mit beiden Beinen auf der Bank und fassen Sie die Langhantel mittig bis eng. Dies ist Ihre Ausgangsposition.",
+            "Beginnen Sie, indem Sie sich durch die Hüften strecken, um die Stange langsam nach vorne zu rollen. Während Sie hinausrollen, beugen Sie die Schulter, um die Stange über Ihren Kopf zu rollen. Achten Sie darauf, dass Ihre Arme während der gesamten Bewegung gestreckt bleiben.",
+            "Wenn die Stange so weit wie möglich nach vorne bewegt wurde, kehren Sie zur Ausgangsposition zurück."
+        ],
+        "category": "strength",
+        "images": [
+            "Barbell_Rollout_from_Bench/0.jpg",
+            "Barbell_Rollout_from_Bench/1.jpg"
+        ],
+        "id": "Barbell_Rollout_from_Bench"
+    },
+    {
+        "name": "Barbell Side Bend",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back"
+        ],
+        "instructions": [
+            "Stellen Sie sich aufrecht hin und halten Sie eine Langhantel auf dem Rücken Ihrer Schultern (etwas unterhalb des Nackens). Ihre Füße sollten schulterbreit auseinander stehen. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie Ihren Rücken gerade und Ihren Kopf oben, beugen Sie sich nur in der Taille so weit wie möglich nach rechts. Atmen Sie ein, während Sie sich zur Seite beugen. Halten Sie dann eine Sekunde inne und kommen Sie zur Ausgangsposition zurück, während Sie ausatmen. Tipp: Halten Sie den Rest des Körpers ruhig.",
+            "Wiederholen Sie nun die Bewegung, aber beugen Sie sich stattdessen nach links. Halten Sie eine Sekunde inne und kommen Sie zur Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Barbell_Side_Bend/0.jpg",
+            "Barbell_Side_Bend/1.jpg"
+        ],
+        "id": "Barbell_Side_Bend"
+    },
+    {
+        "name": "Bent-Knee Hip Raise",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Arme neben Ihren Seiten.",
+            "Beugen Sie nun Ihre Knie in einem Winkel von etwa 75 Grad und heben Sie Ihre Füße etwa 5 cm vom Boden ab.",
+            "Ziehen Sie mit Ihren unteren Bauchmuskeln Ihre Knie zu sich heran, während Sie den 75-Grad-Winkel in Ihren Beinen beibehalten. Fahren Sie mit dieser Bewegung fort, bis Sie Ihre Hüften durch Zurückrollen Ihres Beckens vom Boden abheben. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Tipp: Am Ende der Bewegung werden sich Ihre Knie über Ihrer Brust befinden.",
+            "Spannen Sie Ihre Bauchmuskeln am Höhepunkt der Bewegung für eine Sekunde an und kehren Sie dann langsam zur Ausgangsposition zurück, während Sie einatmen. Tipp: Behalten Sie jederzeit eine kontrollierte Bewegung bei.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Bent-Knee_Hip_Raise/0.jpg",
+            "Bent-Knee_Hip_Raise/1.jpg"
+        ],
+        "id": "Bent-Knee_Hip_Raise"
+    },
+    {
+        "name": "Bent Press",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "lower back",
+            "quadriceps",
+            "shoulders",
+            "triceps"
+        ],
+        "instructions": [
+            "Cleanen Sie eine Kettlebell zu Ihrer Schulter. Cleanen Sie die Kettlebell zu Ihren Schultern, indem Sie sich durch die Beine und Hüften strecken, während Sie die Kettlebell zu Ihrer Schulter heben. Das Handgelenk sollte sich dabei drehen. Dies ist Ihre Ausgangsposition.",
+            "Beginnen Sie, indem Sie sich zur Seite gegenüber der Kettlebell lehnen, bis Sie mit Ihrer freien Hand den Boden berühren können, wobei Sie Ihre Augen auf die Kettlebell gerichtet halten. Drücken Sie dabei das Gewicht vertikal, indem Sie sich durch den Ellbogen strecken und Ihren Arm senkrecht zum Boden halten.",
+            "Kehren Sie in eine aufrechte Position zurück, mit der Kettlebell über Ihrem Kopf. Bringen Sie die Kettlebell zurück zur Schulter und wiederholen Sie dies für die gewünschte Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Bent_Press/0.jpg",
+            "Bent_Press/1.jpg"
+        ],
+        "id": "Bent_Press"
+    },
+    {
+        "name": "Bosu Ball Cable Crunch With Side Bends",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie einen Standardgriff an jedem Arm einer Kabelzugmaschine und positionieren Sie diese in der untersten Position.",
+            "Nehmen Sie einen Bosu-Ball und positionieren Sie ihn vor und in der Mitte der Kabelzugmaschine.",
+            "Legen Sie sich auf den Bosu-Ball, wobei die Krümmung Ihres unteren Rückens um die Kugel gewölbt ist. Ihr Gesäß sollte sich nahe am Boden befinden, ohne ihn zu berühren.",
+            "Greifen Sie mit beiden Händen nach hinten und fassen Sie den Griff jedes Kabels.",
+            "Stellen Sie Ihre Füße schulterbreit auf, strecken Sie Ihre Arme gerade vor sich und zwischen Ihren Knien aus. Ihre Hände sollten sich auf Kniehöhe befinden.",
+            "Halten Sie Ihre Arme gestreckt und in einer Linie mit dem Aufwärtswinkel des Kabels. Heben Sie Ihren Oberkörper in einer Crunch-Bewegung an, ohne Ihre Arme fallen zu lassen oder zu beugen.",
+            "Behalten Sie die starre Position Ihrer Arme bei. Senken Sie sich langsam zurück zur Ausgangsposition, wobei Ihr Rücken um den Bosu-Ball gewölbt und Ihre Bauchmuskeln gestreckt sind.",
+            "Wiederholen Sie dieselbe Bewegungsabfolge bis zum Versagen.",
+            "Sobald Sie das Versagen erreicht haben, halten Sie Ihre Bauchmuskeln angespannt und heben Sie Ihren Oberkörper in die Plank-Position, sodass Ihr Rücken vom Bosu-Ball abgehoben ist.",
+            "Senken Sie Ihre Arme an Ihre Seite; halten Sie sie gerade. Beginnen Sie mit abwechselnden seitlichen Biegungen; greifen Sie nach Ihren Fersen! Diese abschließende Bewegung konzentriert sich auf Ihre schrägen Bauchmuskeln."
+        ],
+        "category": "strength",
+        "images": [
+            "Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
+            "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
+        ],
+        "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends"
+    },
+    {
+        "name": "Bottoms Up",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Beginnen Sie, indem Sie auf dem Rücken auf dem Boden liegen. Ihre Beine sollten gestreckt und Ihre Arme an Ihrer Seite sein. Dies ist Ihre Ausgangsposition.",
+            "Um die Bewegung auszuführen, ziehen Sie die Knie zur Brust, indem Sie die Hüften und Knie beugen. Anschließend strecken Sie Ihre Beine direkt über sich aus, sodass sie senkrecht zum Boden stehen. Drehen und heben Sie Ihr Becken, um Ihr Gesäß vom Boden abzuheben.",
+            "Kehren Sie nach einer kurzen Pause zur Ausgangsposition zurück."
+        ],
+        "category": "strength",
+        "images": [
+            "Bottoms_Up/0.jpg",
+            "Bottoms_Up/1.jpg"
+        ],
+        "id": "Bottoms_Up"
+    },
+    {
+        "name": "Butt-Ups",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Beginnen Sie in einer Liegestützposition, aber mit den Ellbogen auf dem Boden und ruhend auf Ihren Unterarmen. Ihre Arme sollten in einem 90-Grad-Winkel gebeugt sein.",
+            "Wölben Sie Ihren Rücken leicht nach außen, anstatt ihn komplett gerade zu halten.",
+            "Heben Sie Ihr Gesäß in Richtung Decke, indem Sie Ihre Bauchmuskeln fest anspannen, um den Abstand zwischen Ihrem Brustkorb und Ihren Hüften zu verringern. Das Endergebnis ist, dass Sie in einer hohen Brückenposition enden. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Senken Sie langsam zur Ausgangsposition zurück, während Sie einatmen. Tipp: Lassen Sie Ihren Rücken nicht durchhängen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Butt-Ups/0.jpg",
+            "Butt-Ups/1.jpg"
+        ],
+        "id": "Butt-Ups"
+    },
+    {
+        "name": "Cable Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Knien Sie unter einer hohen Seilzugrolle, die mit einem Seilaufsatz versehen ist.",
+            "Greifen Sie den Seilzugaufsatz und senken Sie das Seil ab, bis sich Ihre Hände neben Ihrem Gesicht befinden.",
+            "Beugen Sie Ihre Hüften leicht und lassen Sie das Gewicht den unteren Rücken überstrecken. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie die Hüften ruhig, beugen Sie die Taille, indem Sie die Bauchmuskeln zusammenziehen, sodass die Ellbogen in Richtung der Mitte der Oberschenkel wandern. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie langsam zur Ausgangsposition zurück, während Sie einatmen. Tipp: Achten Sie darauf, während der gesamten Bewegung eine konstante Spannung auf den Bauchmuskeln zu halten. Wählen Sie auch kein so schweres Gewicht, dass der untere Rücken die Hauptlast der Arbeit trägt.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Cable_Crunch/0.jpg",
+            "Cable_Crunch/1.jpg"
+        ],
+        "id": "Cable_Crunch"
+    },
+    {
+        "name": "Cable Judo Flip",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie einen Seilaufsatz an einem Turm und bewegen Sie das Kabel zur niedrigsten Rollenposition. Stellen Sie sich mit Ihrer Seite zum Kabel mit einem breiten Stand und greifen Sie das Seil mit beiden Händen.",
+            "Drehen Sie Ihren Körper vom Kabel weg, während Sie das Seil über Ihre Schulter bringen, als würden Sie einen Judo-Flip ausführen.",
+            "Verlagern Sie Ihr Gewicht zwischen Ihren Füßen, während Sie sich drehen und nach vorne zusammenziehen und dabei das Kabel nach unten ziehen.",
+            "Kehren Sie zur Ausgangsposition zurück und wiederholen Sie dies bis zum Versagen.",
+            "Positionieren Sie sich dann neu und wiederholen Sie dieselbe Bewegungsabfolge auf der gegenüberliegenden Seite."
+        ],
+        "category": "strength",
+        "images": [
+            "Cable_Judo_Flip/0.jpg",
+            "Cable_Judo_Flip/1.jpg"
+        ],
+        "id": "Cable_Judo_Flip"
+    },
+    {
+        "name": "Cable Reverse Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie einen Knöchelriemen-Aufsatz an einem niedrigen Kabelzug und positionieren Sie eine Matte davor auf dem Boden.",
+            "Setzen Sie sich mit den Füßen in Richtung der Rolle und befestigen Sie das Kabel an Ihren Knöcheln.",
+            "Legen Sie sich hin, heben Sie Ihre Beine an und beugen Sie Ihre Knie in einem 90-Grad-Winkel. Ihre Beine und das Kabel sollten ausgerichtet sein. Wenn nicht, stellen Sie die Rolle nach oben oder unten ein, bis sie es sind.",
+            "Mit den Händen hinter dem Kopf ziehen Sie Ihre Knie nach innen zu Ihrem Oberkörper und heben Ihre Hüften vom Boden ab.",
+            "Halten Sie einen Moment inne und senken Sie Ihre Hüften langsam und kontrolliert ab und bringen Sie Ihre Beine zurück in den 90-Grad-Startwinkel. Sie sollten in der Ruheposition immer noch Spannung auf Ihren Bauchmuskeln haben.",
+            "Wiederholen Sie dieselbe Bewegung bis zum Versagen."
+        ],
+        "category": "strength",
+        "images": [
+            "Cable_Reverse_Crunch/0.jpg",
+            "Cable_Reverse_Crunch/1.jpg"
+        ],
+        "id": "Cable_Reverse_Crunch"
+    },
+    {
+        "name": "Cable Russian Twists",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie einen Standardgriff-Aufsatz und positionieren Sie das Kabel in einer mittleren Rollenposition.",
+            "Legen Sie sich auf einem Stabilitätsball senkrecht zum Kabel und greifen Sie den Griff mit einer Hand. Sie sollten ungefähr eine Armlänge von der Rolle entfernt sein, mit der Spannung des Gewichts auf dem Kabel.",
+            "Greifen Sie den Griff mit beiden Händen und strecken Sie Ihre Arme vollständig über Ihrer Brust aus. Ihre Hände sollten direkt in einer Linie mit der Rolle sein. Wenn nicht, stellen Sie die Rolle nach oben oder unten ein, bis sie es sind.",
+            "Halten Sie Ihre Hüften angehoben und Ihre Bauchmuskeln angespannt. Drehen Sie Ihren Oberkörper für eine volle Vierteldrehung von der Rolle weg. Ihr Körper sollte von Kopf bis Knie flach sein.",
+            "Halten Sie einen Moment inne und kehren Sie in einer langsamen und kontrollierten Weise zur Ausgangsposition zurück. Sie sollten in der Ruheposition immer noch seitliche Spannung auf dem Kabel haben.",
+            "Wiederholen Sie dieselbe Bewegung bis zum Versagen.",
+            "Positionieren Sie sich dann neu und wiederholen Sie dieselbe Bewegungsabfolge auf der gegenüberliegenden Seite."
+        ],
+        "category": "strength",
+        "images": [
+            "Cable_Russian_Twists/0.jpg",
+            "Cable_Russian_Twists/1.jpg"
+        ],
+        "id": "Cable_Russian_Twists"
+    },
+    {
+        "name": "Cable Seated Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf eine Flachbank, wobei Ihr Rücken zu einer hohen Seilzugrolle zeigt.",
+            "Greifen Sie den Seilzugaufsatz mit beiden Händen (mit den Handflächen zueinander) und legen Sie Ihre Hände sicher über beide Schultern. Tipp: Lassen Sie das Gewicht den unteren Rücken leicht überstrecken. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie die Hüften ruhig, beugen Sie die Taille, sodass die Ellbogen in Richtung der Hüften wandern. Atmen Sie aus, während Sie diesen Schritt ausführen.",
+            "Kehren Sie beim Einatmen langsam zur Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Cable_Seated_Crunch/0.jpg",
+            "Cable_Seated_Crunch/1.jpg"
+        ],
+        "id": "Cable_Seated_Crunch"
+    },
+    {
+        "name": "Cocoons",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Beginnen Sie, indem Sie auf dem Rücken auf dem Boden liegen. Ihre Beine sollten gestreckt und Ihre Arme hinter Ihrem Kopf ausgestreckt sein. Dies ist Ihre Ausgangsposition.",
+            "Um die Bewegung auszuführen, ziehen Sie die Knie zur Brust, drehen Sie Ihr Becken, um Ihr Gesäß vom Boden abzuheben. Beugen Sie dabei die Wirbelsäule und bringen Sie Ihre Arme wieder über Ihren Kopf, um eine gleichzeitige Crunch-Bewegung auszuführen.",
+            "Kehren Sie nach einer kurzen Pause zur Ausgangsposition zurück."
+        ],
+        "category": "strength",
+        "images": [
+            "Cocoons/0.jpg",
+            "Cocoons/1.jpg"
+        ],
+        "id": "Cocoons"
+    },
+    {
+        "name": "Cross-Body Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Rücken und beugen Sie Ihre Knie um etwa 60 Grad.",
+            "Halten Sie Ihre Füße flach auf dem Boden und legen Sie Ihre Hände locker hinter Ihren Kopf. Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie sich nun auf und bringen Sie Ihren rechten Ellbogen und Ihre Schulter über Ihren Körper, während Sie gleichzeitig Ihr linkes Knie zu Ihrer linken Schulter heranziehen. Strecken Sie sich mit Ihrem Ellbogen und versuchen Sie, Ihr Knie zu berühren. Atmen Sie bei dieser Bewegung aus. Tipp: Versuchen Sie, Ihre Schulter zum Knie zu bringen und nicht nur den Ellbogen, und denken Sie daran, dass der Schlüssel darin liegt, die Bauchmuskeln während der Ausführung zusammenzuziehen; nicht nur den Ellbogen zu bewegen.",
+            "Gehen Sie nun zur Ausgangsposition zurück, während Sie einatmen, und wiederholen Sie dies mit dem linken Ellbogen und dem rechten Knie.",
+            "Fahren Sie abwechselnd auf diese Weise fort, bis alle vorgeschriebenen Wiederholungen abgeschlossen sind."
+        ],
+        "category": "strength",
+        "images": [
+            "Cross-Body_Crunch/0.jpg",
+            "Cross-Body_Crunch/1.jpg"
+        ],
+        "id": "Cross-Body_Crunch"
+    },
+    {
+        "name": "Crunch - Hands Overhead",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Knie gebeugt mit einem Winkel von etwa 60 Grad zwischen Oberschenkeln und Waden.",
+            "Halten Sie Ihre Füße flach auf dem Boden und strecken Sie Ihre Arme über Kopf, wobei Ihre Handflächen überkreuzt sind. Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie Ihren Oberkörper nach vorne und heben Sie Ihre Schulterblätter knapp vom Boden ab. Halten Sie Ihre Arme jederzeit mit Kopf, Nacken und Schulter ausgerichtet. Bewegen Sie sie nicht von dieser Position nach vorne. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Senken Sie langsam zur Ausgangsposition ab, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Crunch_-_Hands_Overhead/0.jpg",
+            "Crunch_-_Hands_Overhead/1.jpg"
+        ],
+        "id": "Crunch_-_Hands_Overhead"
+    },
+    {
+        "name": "Crunch - Legs On Exercise Ball",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Rücken, wobei Ihre Füße auf einem Gymnastikball ruhen und Ihre Knie in einem 90-Grad-Winkel gebeugt sind.",
+            "Stellen Sie Ihre Füße drei bis vier Zoll (ca. 8-10 cm) auseinander und zeigen Sie mit den Zehen nach innen, sodass sie sich berühren.",
+            "Legen Sie Ihre Hände leicht an beide Seiten Ihres Kopfes, wobei Ihre Ellbogen innen bleiben. Tipp: Verriegeln Sie Ihre Finger nicht hinter Ihrem Kopf.",
+            "Drücken Sie den unteren Rücken in den Boden, um Ihre Bauchmuskeln besser zu isolieren. Dies ist Ihre Ausgangsposition.",
+            "Beginnen Sie, Ihre Schultern vom Boden abzurollen und drücken Sie weiterhin so fest wie möglich mit Ihrem unteren Rücken nach unten. Ihre Schultern sollten nur etwa vier Zoll (ca. 10 cm) vom Boden abheben und Ihr unterer Rücken sollte auf dem Boden bleiben. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Spannen Sie Ihre Bauchmuskeln am Höhepunkt der Kontraktion fest an und halten Sie eine Sekunde lang. Tipp: Konzentrieren Sie sich auf eine langsame, kontrollierte Bewegung. Vermeiden Sie es, jederzeit Schwung zu verwenden.",
+            "Gehen Sie langsam zurück zur Ausgangsposition, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Crunch_-_Legs_On_Exercise_Ball/0.jpg",
+            "Crunch_-_Legs_On_Exercise_Ball/1.jpg"
+        ],
+        "id": "Crunch_-_Legs_On_Exercise_Ball"
+    },
+    {
+        "name": "Crunches",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Rücken, die Füße flach auf dem Boden oder auf einer Bank ruhend, wobei Ihre Knie in einem 90-Grad-Winkel gebeugt sind. Wenn Ihre Füße auf einer Bank ruhen, stellen Sie sie drei bis vier Zoll (ca. 8-10 cm) auseinander und zeigen Sie mit den Zehen nach innen, sodass sie sich berühren.",
+            "Legen Sie nun Ihre Hände leicht an beide Seiten Ihres Kopfes, wobei Ihre Ellbogen innen bleiben. Tipp: Verriegeln Sie Ihre Finger nicht hinter Ihrem Kopf.",
+            "Während Sie den unteren Rücken in den Boden drücken, um Ihre Bauchmuskeln besser zu isolieren, beginnen Sie, Ihre Schultern vom Boden abzurollen.",
+            "Drücken Sie weiterhin so fest wie möglich mit Ihrem unteren Rücken nach unten, während Sie Ihre Bauchmuskeln zusammenziehen und ausatmen. Ihre Schultern sollten nur etwa vier Zoll (ca. 10 cm) vom Boden abheben und Ihr unterer Rücken sollte auf dem Boden bleiben. Am Höhepunkt der Bewegung spannen Sie Ihre Bauchmuskeln fest an und halten die Kontraktion eine Sekunde lang. Tipp: Konzentrieren Sie sich auf eine langsame, kontrollierte Bewegung - betrügen Sie sich nicht, indem Sie Schwung verwenden.",
+            "Nach der einsekündigen Kontraktion beginnen Sie, langsam wieder zur Ausgangsposition zurückzukehren, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Crunches/0.jpg",
+            "Crunches/1.jpg"
+        ],
+        "id": "Crunches"
+    },
+    {
+        "name": "Dead Bug",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Beginnen Sie, auf dem Rücken zu liegen, wobei Ihre Hände über sich zur Decke ausgestreckt sind.",
+            "Bringen Sie Ihre Füße, Knie und Hüften auf 90 Grad.",
+            "Atmen Sie fest aus, um Ihren Brustkorb nach unten zu bringen und Ihren Rücken auf den Boden abzuflachen, drehen Sie Ihr Becken nach oben und spannen Sie Ihr Gesäß an. Halten Sie diese Position während der gesamten Bewegung bei. Dies ist Ihre Ausgangsposition.",
+            "Leiten Sie die Übung ein, indem Sie ein Bein ausstrecken, das Knie und die Hüfte strecken, um das Bein knapp über den Boden zu bringen.",
+            "Behalten Sie die Position Ihres Lendenwirbels und Beckens bei, während Sie die Bewegung ausführen, da Ihr Rücken sich wölben möchte.",
+            "Bleiben Sie angespannt und bringen Sie das arbeitende Bein in die Ausgangsposition zurück.",
+            "Wiederholen Sie dies auf der gegenüberliegenden Seite und wechseln Sie ab, bis der Satz abgeschlossen ist."
+        ],
+        "category": "strength",
+        "images": [
+            "Dead_Bug/0.jpg",
+            "Dead_Bug/1.jpg"
+        ],
+        "id": "Dead_Bug"
+    },
+    {
+        "name": "Decline Crunch",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Sichern Sie Ihre Beine am Ende der Negativbank und legen Sie sich hin.",
+            "Legen Sie nun Ihre Hände leicht an beide Seiten Ihres Kopfes, wobei Ihre Ellbogen innen bleiben. Tipp: Verriegeln Sie Ihre Finger nicht hinter Ihrem Kopf.",
+            "Während Sie den unteren Rücken in die Bank drücken, um Ihre Bauchmuskeln besser zu isolieren, beginnen Sie, Ihre Schultern davon abzurollen.",
+            "Drücken Sie weiterhin so fest wie möglich mit Ihrem unteren Rücken nach unten, während Sie Ihre Bauchmuskeln zusammenziehen und ausatmen. Ihre Schultern sollten nur etwa vier Zoll (ca. 10 cm) von der Bank abheben und Ihr unterer Rücken sollte auf der Bank bleiben. Am Höhepunkt der Bewegung spannen Sie Ihre Bauchmuskeln fest an und halten die Kontraktion eine Sekunde lang. Tipp: Konzentrieren Sie sich auf eine langsame, kontrollierte Bewegung - betrügen Sie sich nicht, indem Sie Schwung verwenden.",
+            "Nach der einsekündigen Kontraktion beginnen Sie, langsam wieder zur Ausgangsposition zurückzukehren, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Decline_Crunch/0.jpg",
+            "Decline_Crunch/1.jpg"
+        ],
+        "id": "Decline_Crunch"
+    },
+    {
+        "name": "Decline Oblique Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Sichern Sie Ihre Beine am Ende der Negativbank und legen Sie sich langsam auf die Bank.",
+            "Heben Sie Ihren Oberkörper von der Bank ab, bis Ihr Oberkörper, gemessen vom Boden, etwa 35-45 Grad beträgt.",
+            "Legen Sie eine Hand neben Ihren Kopf und die andere auf Ihren Oberschenkel. Dies ist Ihre Ausgangsposition.",
+            "Heben Sie Ihren Oberkörper langsam aus der Ausgangsposition an, während Sie Ihren Oberkörper nach links drehen. Fahren Sie mit dem Crunch fort, während Sie ausatmen, bis Ihr rechter Ellbogen Ihr linkes Knie berührt. Halten Sie diese angespannte Position eine Sekunde lang. Tipp: Konzentrieren Sie sich darauf, Ihre Bauchmuskeln angespannt und die Bewegung langsam und kontrolliert zu halten.",
+            "Senken Sie Ihren Körper langsam zurück zur Ausgangsposition, während Sie einatmen.",
+            "Nachdem Sie einen Satz auf der rechten Seite für die empfohlene Anzahl von Wiederholungen abgeschlossen haben, wechseln Sie zu Ihrer linken Seite. Tipp: Konzentrieren Sie sich darauf, Ihren Oberkörper wirklich zu drehen und die Kontraktion zu spüren, wenn Sie sich in der oberen Position befinden."
+        ],
+        "category": "strength",
+        "images": [
+            "Decline_Oblique_Crunch/0.jpg",
+            "Decline_Oblique_Crunch/1.jpg"
+        ],
+        "id": "Decline_Oblique_Crunch"
+    },
+    {
+        "name": "Decline Reverse Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf dem Rücken auf eine Negativbank und halten Sie sich mit beiden Händen am oberen Ende der Bank fest. Lassen Sie Ihren Körper nicht von dieser Position nach unten rutschen.",
+            "Halten Sie Ihre Beine parallel zum Boden, indem Sie Ihre Bauchmuskeln benutzen, um sie dort zu halten, während Sie Ihre Knie und Füße zusammenhalten. Tipp: Ihre Beine sollten vollständig gestreckt sein mit einer leichten Beugung im Knie. Dies ist Ihre Ausgangsposition.",
+            "Bewegen Sie Ihre Beine beim Ausatmen in Richtung des Oberkörpers, während Sie Ihr Becken nach hinten rollen und Ihre Hüften von der Bank abheben. Am Ende dieser Bewegung berühren Ihre Knie Ihre Brust.",
+            "Halten Sie die Kontraktion eine Sekunde lang und bewegen Sie Ihre Beine beim Einatmen zurück zur Ausgangsposition.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Decline_Reverse_Crunch/0.jpg",
+            "Decline_Reverse_Crunch/1.jpg"
+        ],
+        "id": "Decline_Reverse_Crunch"
+    },
+    {
+        "name": "Double Kettlebell Windmill",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": null,
+        "equipment": "kettlebells",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "shoulders",
+            "triceps"
+        ],
+        "instructions": [
+            "Stellen Sie eine Kettlebell vor Ihren vorderen Fuß und clean und pressen Sie eine Kettlebell über Kopf mit Ihrem gegenüberliegenden Arm. Cleanen Sie die Kettlebell zu Ihrer Schulter, indem Sie sich durch die Beine und Hüften strecken, während Sie die Kettlebell zu Ihren Schultern ziehen. Drehen Sie Ihr Handgelenk dabei, sodass die Handfläche nach vorne zeigt.",
+            "Halten Sie die Kettlebell jederzeit gesperrt und schieben Sie Ihr Gesäß in Richtung der gesperrten Kettlebell. Drehen Sie Ihre Füße in einem fünfundvierzig Grad Winkel vom Arm mit der gesperrten Kettlebell.",
+            "Beugen Sie sich in der Hüfte zur Seite, schieben Sie Ihr Gesäß heraus und lehnen Sie sich langsam, bis Sie die Kettlebell vom Boden aufnehmen können. Halten Sie Ihre Augen jederzeit auf die Kettlebell gerichtet, die Sie über Ihrem Kopf halten.",
+            "Halten Sie eine Sekunde inne, nachdem Sie die Kettlebell vom Boden aufgenommen haben, und kehren Sie die Bewegung zurück zur Ausgangsposition."
+        ],
+        "category": "strength",
+        "images": [
+            "Double_Kettlebell_Windmill/0.jpg",
+            "Double_Kettlebell_Windmill/1.jpg"
+        ],
+        "id": "Double_Kettlebell_Windmill"
+    },
+    {
+        "name": "Dumbbell Side Bend",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "dumbbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Stellen Sie sich aufrecht hin und halten Sie eine Kurzhantel in der linken Hand (Handflächen zeigen zum Oberkörper), während die rechte Hand Ihre Taille hält. Ihre Füße sollten schulterbreit auseinander stehen. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie Ihren Rücken gerade und Ihren Kopf oben, beugen Sie sich nur in der Taille so weit wie möglich nach rechts. Atmen Sie ein, während Sie sich zur Seite beugen. Halten Sie dann eine Sekunde inne und kommen Sie zur Ausgangsposition zurück, während Sie ausatmen. Tipp: Halten Sie den Rest des Körpers ruhig.",
+            "Wiederholen Sie nun die Bewegung, beugen Sie sich aber stattdessen nach links. Halten Sie eine Sekunde inne und kommen Sie zur Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und wechseln Sie dann die Hände."
+        ],
+        "category": "strength",
+        "images": [
+            "Dumbbell_Side_Bend/0.jpg",
+            "Dumbbell_Side_Bend/1.jpg"
+        ],
+        "id": "Dumbbell_Side_Bend"
+    },
+    {
+        "name": "Elbow to Knee",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf den Boden und kreuzen Sie Ihr rechtes Bein über Ihr gebeugtes linkes Knie. Verschränken Sie Ihre Hände hinter Ihrem Kopf und beginnen Sie mit den Schulterblättern auf dem Boden. Dies ist Ihre Ausgangsposition.",
+            "Führen Sie die Bewegung aus, indem Sie die Wirbelsäule beugen und Ihren Oberkörper drehen, um den linken Ellbogen zum rechten Knie zu bringen.",
+            "Kehren Sie zur Ausgangsposition zurück und wiederholen Sie die Bewegung für die gewünschte Anzahl von Wiederholungen, bevor Sie die Seiten wechseln."
+        ],
+        "category": "strength",
+        "images": [
+            "Elbow_to_Knee/0.jpg",
+            "Elbow_to_Knee/1.jpg"
+        ],
+        "id": "Elbow_to_Knee"
+    },
+    {
+        "name": "Exercise Ball Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "exercise ball",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf einen Gymnastikball, wobei die Krümmung Ihres unteren Rückens gegen die kugelförmige Oberfläche des Balls gedrückt wird. Ihre Füße sollten an den Knien gebeugt und fest auf den Boden gedrückt sein. Der obere Oberkörper sollte über die Oberseite des Balls hängen. Die Arme sollten entweder neben dem Körper gehalten oder auf der Brust gekreuzt werden, da diese Positionen Nackenbelastungen vermeiden (im Gegensatz zur Position der Hände hinter dem Kopf).",
+            "Senken Sie Ihren Oberkörper in eine Dehnungsposition und halten Sie den Nacken jederzeit ruhig. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie die Hüften ruhig, beugen Sie die Taille, indem Sie die Bauchmuskeln zusammenziehen, und rollen Sie die Schultern und den Rumpf nach oben, bis Sie eine gute Kontraktion in Ihren Bauchmuskeln spüren. Die Arme sollten einfach an der Seite Ihrer Beine entlang gleiten, wenn Sie sie an der Seite haben, oder einfach auf Ihrer Brust bleiben, wenn Sie sie gekreuzt haben. Der untere Rücken sollte immer in Kontakt mit dem Ball bleiben."
+        ],
+        "category": "strength",
+        "images": [
+            "Exercise_Ball_Crunch/0.jpg",
+            "Exercise_Ball_Crunch/1.jpg"
+        ],
+        "id": "Exercise_Ball_Crunch"
+    },
+    {
+        "name": "Extended Plank from Bench",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lats",
+            "shoulders",
+            "triceps"
+        ],
+        "instructions": [
+            "Beginnen Sie in einer Plank-Position mit Ihren Unterarmen auf der Bank.",
+            "Strecken Sie Ihre Arme aus und rollen Sie die Stange nach vorne, wobei Sie die Plank-Position beibehalten.",
+            "Rollen Sie zurück in die Ausgangsposition."
+        ],
+        "category": "strength",
+        "images": [
+            "Extended_Plank_from_Bench/0.jpg",
+            "Extended_Plank_from_Bench/1.jpg"
+        ],
+        "id": "Extended_Plank_from_Bench"
+    },
+    {
+        "name": "Flutter Kicks",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf einer Matte auf den Boden, die Beine gerade und die Arme seitlich ausgestreckt. Hinweis: Sie können Ihre Hände unter Ihr Gesäß legen, um Ihren unteren Rücken besser zu stützen.",
+            "Heben Sie beim Ausatmen Kopf und Schultern leicht vom Boden ab. Heben Sie Ihre Beine etwa 15 cm vom Boden ab. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie Ihre Beine gestreckt, heben Sie schnell Ihr rechtes Bein etwas höher als Ihr linkes Bein und senken Sie dann das rechte Bein, während Sie gleichzeitig das linke Bein anheben. Dies ist eine abwechselnde Bewegung, als ob Sie schwimmen würden. Tipp: Atmen Sie langsam ein und aus und halten Sie Ihre Bauchmuskeln angespannt.",
+            "Fahren Sie mit dem Abwechseln fort, bis Sie die empfohlene Anzahl an Wiederholungen für jedes Bein abgeschlossen haben."
+        ],
+        "category": "strength",
+        "images": [
+            "Flutter_Kicks/0.jpg",
+            "Flutter_Kicks/1.jpg"
+        ],
+        "id": "Flutter_Kicks"
+    },
+    {
+        "name": "Hanging Leg Raise",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Hängen Sie sich mit einem Obergriff (Handflächen nach vorne) an eine Klimmzugstange. Ihre Arme sollten vollständig gestreckt sein mit einer leichten Beugung in den Ellbogen und Ihr Rücken sollte gerade sein. Dies ist Ihre Ausgangsposition.",
+            "Heben Sie Ihre Beine an, bis Ihre Oberschenkel parallel zum Boden sind. Atmen Sie aus, während Sie diese Bewegung ausführen und halten Sie die Kontraktion eine Sekunde lang. Tipp: Schwingen Sie nicht mit Ihrem Körper. Die Bewegung sollte vom Bauch ausgeführt werden.",
+            "Senken Sie Ihre Beine beim Einatmen langsam in die Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Hanging_Leg_Raise/0.jpg",
+            "Hanging_Leg_Raise/1.jpg"
+        ],
+        "id": "Hanging_Leg_Raise"
+    },
+    {
+        "name": "Hanging Oblique Knee Raise",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Hängen Sie sich mit einem Obergriff (Handflächen nach vorne) an eine Klimmzugstange. Ihre Arme sollten vollständig gestreckt sein mit einer leichten Beugung in den Ellbogen und Ihr Rücken sollte gerade sein. Dies ist Ihre Ausgangsposition.",
+            "Heben Sie Ihre Beine (Knie gebeugt) an, bis Ihre Oberschenkel parallel zum Boden sind, und drehen Sie Ihren Oberkörper dabei zur rechten Seite. Atmen Sie aus, während Sie diese Bewegung ausführen und halten Sie die Kontraktion eine Sekunde lang. Tipp: Schwingen Sie nicht mit Ihrem Körper. Die Bewegung sollte vom Bauch ausgeführt werden.",
+            "Senken Sie Ihre Beine beim Einatmen langsam in die Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und führen Sie dann die gleiche Bewegung für die linke Seite durch."
+        ],
+        "category": "strength",
+        "images": [
+            "Hanging_Oblique_Knee_Raise/0.jpg",
+            "Hanging_Oblique_Knee_Raise/1.jpg"
+        ],
+        "id": "Hanging_Oblique_Knee_Raise"
+    },
+    {
+        "name": "Hardstyle Plank",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "quadriceps"
+        ],
+        "instructions": [
+            "Begeben Sie sich auf dem Boden in eine Plank-Position, wobei Sie sich auf Ihre Unterarme und Zehen stützen.",
+            "Spannen Sie Ihr Gesäß und Ihre Quadrizeps so fest wie möglich an. Ziehen Sie Ihren Bauchnabel zur Wirbelsäule ein, um Ihren Rumpf zu stabilisieren.",
+            "Ballen Sie Ihre Fäuste und ziehen Sie Ihre Ellbogen in Richtung Ihrer Zehen und Ihre Zehen in Richtung Ihrer Ellbogen, ohne sie tatsächlich zu bewegen.",
+            "Halten Sie diese Position für eine vorgeschriebene Zeitspanne."
+        ],
+        "category": "strength",
+        "images": [
+            "Hardstyle_Plank/0.jpg",
+            "Hardstyle_Plank/1.jpg"
+        ],
+        "id": "Hardstyle_Plank"
+    },
+    {
+        "name": "High Cable Oblique Extensions",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lats"
+        ],
+        "instructions": [
+            "Stellen Sie sich neben einen hohen Kabelzug mit einem befestigten Griff. Greifen Sie den Griff mit der Hand, die dem Kabel am nächsten ist, und treten Sie weg, sodass Spannung auf dem Kabel ist und Ihr Arm vollständig über Ihrem Kopf ausgestreckt ist. Dies ist Ihre Ausgangsposition.",
+            "Ziehen Sie den Griff, ohne Ihren Ellbogen zu beugen, nach unten und quer über Ihren Körper, sodass sich der Griff in der Nähe Ihrer gegenüberliegenden Hüfte befindet. Atmen Sie aus, während Sie diese Bewegung ausführen und halten Sie die Kontraktion eine Sekunde lang.",
+            "Führen Sie den Griff beim Einatmen langsam in die Ausgangsposition zurück. Tipp: Achten Sie auf eine langsame und kontrollierte Bewegung.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und führen Sie dann die gleiche Bewegung mit dem anderen Arm durch."
+        ],
+        "category": "strength",
+        "images": [
+            "High_Cable_Oblique_Extensions/0.jpg",
+            "High_Cable_Oblique_Extensions/1.jpg"
+        ],
+        "id": "High_Cable_Oblique_Extensions"
+    },
+    {
+        "name": "Hyperextension - Side Oblique",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back"
+        ],
+        "instructions": [
+            "Positionieren Sie sich seitlich auf einer Hyperextensionsbank. Platzieren Sie den Knöchel des näheren Beins unter dem Polster und Ihr gegenüberliegendes Bein vor dem Polster. Legen Sie Ihre Hände hinter Ihren Kopf oder kreuzen Sie sie auf Ihrer Brust. Dies ist Ihre Ausgangsposition.",
+            "Beginnen Sie die Bewegung, indem Sie sich in der Taille zur Seite beugen, bis Ihr Oberkörper parallel zum Boden ist. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen. Tipp: Konzentrieren Sie sich darauf, Ihren Körper beim Heruntergehen nicht zu verdrehen.",
+            "Heben Sie Ihren Oberkörper beim Ausatmen langsam zurück in die Ausgangsposition. Tipp: Vermeiden Sie die Versuchung, Ihren Körper beim Aufrichten zu verdrehen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und führen Sie dann die gleiche Bewegung mit der anderen Seite durch."
+        ],
+        "category": "strength",
+        "images": [
+            "Hyperextension_-_Side_Oblique/0.jpg",
+            "Hyperextension_-_Side_Oblique/1.jpg"
+        ],
+        "id": "Hyperextension_-_Side_Oblique"
+    },
+    {
+        "name": "Kettlebell Windmill",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "kettlebells",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "shoulders"
+        ],
+        "instructions": [
+            "Clean und Pressen Sie eine Kettlebell über Kopf mit einem Arm. Cleanen Sie die Kettlebell zu Ihren Schultern, indem Sie sich durch die Beine und Hüften strecken, während Sie die Kettlebell zu Ihren Schultern ziehen. Ihr Handgelenk sollte sich dabei drehen. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie die Kettlebell jederzeit gesperrt und schieben Sie Ihr Gesäß in Richtung der gesperrten Kettlebell. Halten Sie den nicht arbeitenden Arm hinter Ihrem Rücken und drehen Sie Ihre Füße in einem fünfundvierzig Grad Winkel vom Arm mit der Kettlebell.",
+            "Senken Sie sich so weit wie möglich ab.",
+            "Halten Sie eine Sekunde inne und kehren Sie die Bewegung zurück zur Ausgangsposition."
+        ],
+        "category": "strength",
+        "images": [
+            "Kettlebell_Windmill/0.jpg",
+            "Kettlebell_Windmill/1.jpg"
+        ],
+        "id": "Kettlebell_Windmill"
+    },
+    {
+        "name": "Knee/Hip Raise On Parallel Bars",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie Ihre Unterarme auf die Parallelstangen. Greifen Sie mit dem Rücken gegen das Polster die Griffe. Ihre Arme sollten in einem 90-Grad-Winkel gebeugt sein. Dies ist Ihre Ausgangsposition.",
+            "Heben Sie Ihre Knie so hoch wie möglich an. Atmen Sie aus, während Sie diese Bewegung ausführen und halten Sie die Kontraktion eine Sekunde lang. Tipp: Schwingen Sie nicht mit Ihrem Körper. Die Bewegung sollte vom Bauch ausgeführt werden.",
+            "Senken Sie Ihre Beine beim Einatmen langsam in die Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
+            "Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
+        ],
+        "id": "Knee_Hip_Raise_On_Parallel_Bars"
+    },
+    {
+        "name": "Kneeling Cable Diagonal Raise",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie einen Standardgriff an einem hohen Kabelzug und knien Sie mit Ihrer Seite zum Kabel. Greifen Sie mit der Hand, die dem Kabel am nächsten ist, nach oben und fassen Sie den Griff mit der Handfläche nach unten. Dies ist Ihre Ausgangsposition.",
+            "Ziehen Sie den Griff, ohne Ihren Ellbogen zu beugen, nach unten und quer über Ihren Körper, sodass sich der Griff in der Nähe Ihrer gegenüberliegenden Hüfte befindet. Atmen Sie aus, während Sie diese Bewegung ausführen und halten Sie die Kontraktion eine Sekunde lang.",
+            "Führen Sie den Griff beim Einatmen langsam in die Ausgangsposition zurück. Tipp: Achten Sie auf eine langsame und kontrollierte Bewegung.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und führen Sie dann die gleiche Bewegung mit dem anderen Arm durch."
+        ],
+        "category": "strength",
+        "images": [
+            "Kneeling_Cable_Diagonal_Raise/0.jpg",
+            "Kneeling_Cable_Diagonal_Raise/1.jpg"
+        ],
+        "id": "Kneeling_Cable_Diagonal_Raise"
+    },
+    {
+        "name": "Kneeling Cable Crunch - With Rope",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Knien Sie unter einem hohen Kabelzug, der mit einem Seilaufsatz versehen ist.",
+            "Greifen Sie den Seilaufsatz und senken Sie das Seil ab, bis sich Ihre Hände neben Ihrem Gesicht befinden.",
+            "Beugen Sie Ihre Hüften leicht und lassen Sie das Gewicht den unteren Rücken überstrecken. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie die Hüften ruhig, beugen Sie die Taille, indem Sie die Bauchmuskeln zusammenziehen, sodass die Ellbogen in Richtung der Mitte der Oberschenkel wandern. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie langsam zur Ausgangsposition zurück, während Sie einatmen. Tipp: Achten Sie darauf, während der gesamten Bewegung eine konstante Spannung auf den Bauchmuskeln zu halten. Wählen Sie auch kein so schweres Gewicht, dass der untere Rücken die Hauptlast der Arbeit trägt.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Kneeling_Cable_Crunch_-_With_Rope/0.jpg",
+            "Kneeling_Cable_Crunch_-_With_Rope/1.jpg"
+        ],
+        "id": "Kneeling_Cable_Crunch_-_With_Rope"
+    },
+    {
+        "name": "Kneeling Cable Triceps Extension",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "triceps"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie ein Seil an einer hohen Umlenkrolle und knien Sie auf dem Boden. Fassen Sie das Seil mit einem neutralen Griff (Handflächen zueinander).",
+            "Halten Sie Ihre Arme nahe am Kopf und parallel zum Boden. Dies ist Ihre Ausgangsposition.",
+            "Strecken Sie Ihre Arme über Ihren Kopf und halten Sie die Kontraktion eine Sekunde lang. Atmen Sie während dieser Bewegung aus.",
+            "Bringen Sie Ihre Arme langsam in die Ausgangsposition zurück. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Kneeling_Cable_Triceps_Extension/0.jpg",
+            "Kneeling_Cable_Triceps_Extension/1.jpg"
+        ],
+        "id": "Kneeling_Cable_Triceps_Extension"
+    },
+    {
+        "name": "Machine Twist",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf die Maschine und wählen Sie das gewünschte Gewicht. Die Füße sollten flach auf dem Boden stehen. Der Rücken sollte gerade und die Brust herausgestreckt sein. Halten Sie die Griffe der Maschine.",
+            "Halten Sie Ihren Kopf und Oberkörper gerade, drehen Sie Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie nun die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Machine_Twist/0.jpg",
+            "Machine_Twist/1.jpg"
+        ],
+        "id": "Machine_Twist"
+    },
+    {
+        "name": "Modified Front Lever",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "forearms",
+            "lats",
+            "middle back",
+            "shoulders"
+        ],
+        "instructions": [
+            "Fassen Sie eine Klimmzugstange mit einem Obergriff (Handflächen nach vorne) oder einem neutralen Griff (Handflächen zueinander), wobei die Hände etwas weiter als schulterbreit auseinander liegen.",
+            "Heben Sie Ihren Körper an, bis er parallel zum Boden ist. Dies erfordert viel Rumpfkraft, insbesondere in den Bauchmuskeln.",
+            "Halten Sie die Position so lange wie möglich."
+        ],
+        "category": "strength",
+        "images": [
+            "Modified_Front_Lever/0.jpg",
+            "Modified_Front_Lever/1.jpg"
+        ],
+        "id": "Modified_Front_Lever"
+    },
+    {
+        "name": "Modified V-Sit",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "hip flexors"
+        ],
+        "instructions": [
+            "Legen Sie sich auf den Boden und strecken Sie Ihre Beine gerade aus. Legen Sie Ihre Arme an Ihre Seite, wobei Ihre Handflächen nach unten zeigen.",
+            "Beugen Sie Ihre Knie und bringen Sie sie so nah wie möglich an Ihre Brust, indem Sie Ihre Bauchmuskeln anspannen. Ihre Hände sollten immer noch an Ihrer Seite bleiben.",
+            "Halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie zur Ausgangsposition zurück und wiederholen Sie die Bewegung für die gewünschte Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Modified_V-Sit/0.jpg",
+            "Modified_V-Sit/1.jpg"
+        ],
+        "id": "Modified_V-Sit"
+    },
+    {
+        "name": "Pin Wheel Kneeling Cable Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Knien Sie mit dem Gesicht zu einem hohen Kabelzug. Befestigen Sie einen geraden Stangenaufsatz am Kabelzug und greifen Sie ihn mit einem Obergriff (Handflächen nach unten).",
+            "Halten Sie die Stange fest und bringen Sie sie in die Ausgangsposition, wobei sie über Ihrem rechten Knie liegt.",
+            "Drehen Sie die Stange über Ihre Brust, bis sie über Ihrem linken Knie liegt. Atmen Sie während dieser Bewegung aus.",
+            "Kehren Sie langsam zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie die Bewegung für die gewünschte Anzahl von Wiederholungen und führen Sie dann die Bewegung in die entgegengesetzte Richtung aus."
+        ],
+        "category": "strength",
+        "images": [
+            "Pin_Wheel_Kneeling_Cable_Crunch/0.jpg",
+            "Pin_Wheel_Kneeling_Cable_Crunch/1.jpg"
+        ],
+        "id": "Pin_Wheel_Kneeling_Cable_Crunch"
+    },
+    {
+        "name": "Plank",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back"
+        ],
+        "instructions": [
+            "Legen Sie sich in eine Liegestützposition, aber beugen Sie Ihre Ellbogen und ruhen Sie sich auf Ihren Unterarmen aus. Ihre Arme sollten in einem 90-Grad-Winkel gebeugt sein.",
+            "Halten Sie Ihren Körper in einer geraden Linie vom Kopf bis zu den Füßen und stützen Sie sich auf Ihre Ellbogen und Zehen.",
+            "Halten Sie diese Position für die empfohlene Dauer."
+        ],
+        "category": "strength",
+        "images": [
+            "Plank/0.jpg",
+            "Plank/1.jpg"
+        ],
+        "id": "Plank"
+    },
+    {
+        "name": "Plank - With Arms Extended",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back"
+        ],
+        "instructions": [
+            "Begeben Sie sich in eine Liegestützposition, wobei Ihre Arme gestreckt und Ihre Hände direkt unter Ihren Schultern sind.",
+            "Halten Sie Ihren Körper in einer geraden Linie vom Kopf bis zu den Füßen und stützen Sie sich auf Ihre Hände und Zehen.",
+            "Halten Sie diese Position für die empfohlene Dauer."
+        ],
+        "category": "strength",
+        "images": [
+            "Plank_-_With_Arms_Extended/0.jpg",
+            "Plank_-_With_Arms_Extended/1.jpg"
+        ],
+        "id": "Plank_-_With_Arms_Extended"
+    },
+    {
+        "name": "Plate Twist",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "other",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf den Boden mit gebeugten Knien und angehobenen Füßen. Halten Sie eine Gewichtsscheibe mit ausgestreckten Armen vor sich.",
+            "Halten Sie Ihren Rücken gerade und drehen Sie Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie nun die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Plate_Twist/0.jpg",
+            "Plate_Twist/1.jpg"
+        ],
+        "id": "Plate_Twist"
+    },
+    {
+        "name": "Power-Partials",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Knie gebeugt mit einem Winkel von etwa 60 Grad zwischen Oberschenkeln und Waden.",
+            "Halten Sie Ihre Füße flach auf dem Boden und legen Sie Ihre Hände leicht an beide Seiten Ihres Kopfes, wobei Ihre Ellbogen innen bleiben. Tipp: Verriegeln Sie Ihre Finger nicht hinter Ihrem Kopf.",
+            "Rollen Sie nun Ihren Oberkörper nur leicht nach vorne, gerade genug, um Ihre Bauchmuskeln fest anzuspannen. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen und halten Sie die Kontraktion eine Sekunde lang. Tipp: Konzentrieren Sie sich auf eine langsame, kontrollierte Bewegung - betrügen Sie sich nicht, indem Sie Schwung verwenden.",
+            "Nach der einsekündigen Kontraktion beginnen Sie, langsam wieder zur Ausgangsposition zurückzukehren, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Power-Partials/0.jpg",
+            "Power-Partials/1.jpg"
+        ],
+        "id": "Power-Partials"
+    },
+    {
+        "name": "Preacher Curl",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "biceps"
+        ],
+        "secondaryMuscles": [
+            "forearms"
+        ],
+        "instructions": [
+            "Laden Sie eine SZ-Stange mit dem gewünschten Gewicht und knien Sie sich mit beiden Knien auf den Boden. Stellen Sie Ihre Füße hinter sich zusammen.",
+            "Halten Sie die Stange mit beiden Händen und einem Obergriff (Handflächen nach unten) und ruhen Sie Ihre Unterarme auf der Krümmung der Polsterbank ab. Die Arme sollten gerade sein. Dies ist Ihre Ausgangsposition.",
+            "Beugen Sie Ihre Arme und bringen Sie die Stange in Richtung Ihrer Brust. Atmen Sie während dieser Bewegung aus und halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Preacher_Curl/0.jpg",
+            "Preacher_Curl/1.jpg"
+        ],
+        "id": "Preacher_Curl"
+    },
+    {
+        "name": "Rope Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Knien Sie unter einer hohen Seilzugrolle, die mit einem Seilaufsatz versehen ist.",
+            "Greifen Sie den Seilzugaufsatz und senken Sie das Seil ab, bis sich Ihre Hände neben Ihrem Gesicht befinden.",
+            "Beugen Sie Ihre Hüften leicht und lassen Sie das Gewicht den unteren Rücken überstrecken. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie die Hüften ruhig, beugen Sie die Taille, indem Sie die Bauchmuskeln zusammenziehen, sodass die Ellbogen in Richtung der Mitte der Oberschenkel wandern. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie langsam zur Ausgangsposition zurück, während Sie einatmen. Tipp: Achten Sie darauf, während der gesamten Bewegung eine konstante Spannung auf den Bauchmuskeln zu halten. Wählen Sie auch kein so schweres Gewicht, dass der untere Rücken die Hauptlast der Arbeit trägt.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Rope_Crunch/0.jpg",
+            "Rope_Crunch/1.jpg"
+        ],
+        "id": "Rope_Crunch"
+    },
+    {
+        "name": "Russian Twist",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf den Boden und beugen Sie Ihre Knie in einem 45-Grad-Winkel. Ihre Füße sollten flach auf dem Boden stehen.",
+            "Halten Sie Ihre Arme vor sich ausgestreckt, senkrecht zu Ihrem Oberkörper. Dies ist Ihre Ausgangsposition.",
+            "Heben Sie Ihre Füße vom Boden ab, halten Sie die Knie in einem 45-Grad-Winkel und lehnen Sie sich mit dem Oberkörper leicht zurück. Achten Sie darauf, dass Ihr Rücken gerade ist.",
+            "Drehen Sie nun Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Russian_Twist/0.jpg",
+            "Russian_Twist/1.jpg"
+        ],
+        "id": "Russian_Twist"
+    },
+    {
+        "name": "Seated Cable Rows",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "middle back"
+        ],
+        "secondaryMuscles": [
+            "biceps",
+            "shoulders"
+        ],
+        "instructions": [
+            "Setzen Sie sich an die Rudermaschine mit engem Griff und stellen Sie Ihre Füße auf die Fußstützen.",
+            "Beugen Sie Ihre Knie leicht und greifen Sie den Griff mit beiden Händen. Ziehen Sie den Griff zu Ihrem Körper. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie Ihren Oberkörper ruhig und ziehen Sie das Gewicht zu Ihrem Oberkörper, während Sie ausatmen. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Bringen Sie das Gewicht langsam in die Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Seated_Cable_Rows/0.jpg",
+            "Seated_Cable_Rows/1.jpg"
+        ],
+        "id": "Seated_Cable_Rows"
+    },
+    {
+        "name": "Seated Dumbbell Triceps Extension",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "dumbbell",
+        "primaryMuscles": [
+            "triceps"
+        ],
+        "secondaryMuscles": [
+            "forearms",
+            "shoulders"
+        ],
+        "instructions": [
+            "Setzen Sie sich auf eine Bank mit Rückenlehne und halten Sie eine Kurzhantel mit beiden Händen über Ihrem Kopf. Die Kurzhantel sollte in einer vertikalen Linie über Ihrem Kopf sein. Dies ist Ihre Ausgangsposition.",
+            "Senken Sie die Kurzhantel langsam hinter Ihren Kopf, indem Sie Ihre Ellbogen beugen. Halten Sie Ihre Oberarme ruhig und parallel zum Boden. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+            "Strecken Sie Ihre Arme und bringen Sie die Kurzhantel in die Ausgangsposition zurück, während Sie ausatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Seated_Dumbbell_Triceps_Extension/0.jpg",
+            "Seated_Dumbbell_Triceps_Extension/1.jpg"
+        ],
+        "id": "Seated_Dumbbell_Triceps_Extension"
+    },
+    {
+        "name": "Seated Russian Twist",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf den Boden und beugen Sie Ihre Knie in einem 45-Grad-Winkel. Ihre Füße sollten flach auf dem Boden stehen.",
+            "Halten Sie Ihre Arme vor sich ausgestreckt, senkrecht zu Ihrem Oberkörper. Dies ist Ihre Ausgangsposition.",
+            "Drehen Sie nun Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Seated_Russian_Twist/0.jpg",
+            "Seated_Russian_Twist/1.jpg"
+        ],
+        "id": "Seated_Russian_Twist"
+    },
+    {
+        "name": "Side Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf den Boden und beugen Sie Ihre Knie in einem 45-Grad-Winkel. Ihre Füße sollten flach auf dem Boden stehen.",
+            "Legen Sie eine Hand hinter Ihren Kopf und die andere an Ihre Seite.",
+            "Crunchen Sie Ihren Oberkörper zur Seite und bringen Sie Ihren Ellbogen in Richtung Ihrer Hüfte. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Kehren Sie langsam zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und führen Sie dann die gleiche Bewegung für die andere Seite durch."
+        ],
+        "category": "strength",
+        "images": [
+            "Side_Crunch/0.jpg",
+            "Side_Crunch/1.jpg"
+        ],
+        "id": "Side_Crunch"
+    },
+    {
+        "name": "Side Plank",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf die Seite und stützen Sie sich auf Ihren Unterarm. Ihre Füße sollten gestapelt sein.",
+            "Heben Sie Ihre Hüften vom Boden ab, sodass Ihr Körper eine gerade Linie bildet. Stützen Sie sich auf Ihren Unterarm und Ihre Füße.",
+            "Halten Sie diese Position für die empfohlene Dauer.",
+            "Wiederholen Sie dies für die andere Seite."
+        ],
+        "category": "strength",
+        "images": [
+            "Side_Plank/0.jpg",
+            "Side_Plank/1.jpg"
+        ],
+        "id": "Side_Plank"
+    },
+    {
+        "name": "Sit-Ups",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "hip flexors"
+        ],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Knie gebeugt mit einem Winkel von etwa 60 Grad zwischen Oberschenkeln und Waden.",
+            "Halten Sie Ihre Füße flach auf dem Boden und legen Sie Ihre Hände leicht an beide Seiten Ihres Kopfes, wobei Ihre Ellbogen innen bleiben. Tipp: Verriegeln Sie Ihre Finger nicht hinter Ihrem Kopf.",
+            "Rollen Sie nun Ihren Oberkörper nach vorne und heben Sie Ihre Schulterblätter vom Boden ab. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Senken Sie langsam zur Ausgangsposition ab, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Sit-Ups/0.jpg",
+            "Sit-Ups/1.jpg"
+        ],
+        "id": "Sit-Ups"
+    },
+    {
+        "name": "Smith Machine Hip Raise",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Arme neben Ihren Seiten.",
+            "Heben Sie Ihre Beine an und beugen Sie Ihre Knie in einem 90-Grad-Winkel. Legen Sie Ihre Füße unter die Smith-Maschinenstange.",
+            "Drücken Sie Ihre Füße nach oben und heben Sie Ihre Hüften vom Boden ab. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Senken Sie Ihre Hüften langsam in die Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Smith_Machine_Hip_Raise/0.jpg",
+            "Smith_Machine_Hip_Raise/1.jpg"
+        ],
+        "id": "Smith_Machine_Hip_Raise"
+    },
+    {
+        "name": "Swiss Ball Russian Twist",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "exercise ball",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf einen Gymnastikball und rollen Sie ihn nach vorne, bis Ihr oberer Rücken auf dem Ball aufliegt. Ihre Füße sollten flach auf dem Boden stehen und Ihre Knie in einem 90-Grad-Winkel gebeugt sein.",
+            "Halten Sie Ihre Arme vor sich ausgestreckt, senkrecht zu Ihrem Oberkörper. Dies ist Ihre Ausgangsposition.",
+            "Drehen Sie nun Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Swiss_Ball_Russian_Twist/0.jpg",
+            "Swiss_Ball_Russian_Twist/1.jpg"
+        ],
+        "id": "Swiss_Ball_Russian_Twist"
+    },
+    {
+        "name": "Torso Rotation",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf die Torsorotationsmaschine und stellen Sie Ihre Füße auf die Fußstützen. Ihre Knie sollten in einem 90-Grad-Winkel gebeugt sein.",
+            "Halten Sie die Griffe der Maschine und halten Sie Ihren Rücken gerade und die Brust herausgestreckt.",
+            "Drehen Sie Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie nun die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Torso_Rotation/0.jpg",
+            "Torso_Rotation/1.jpg"
+        ],
+        "id": "Torso_Rotation"
+    },
+    {
+        "name": "Transverse Abdominals Training",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Rücken, die Knie gebeugt und die Füße flach auf dem Boden. Legen Sie Ihre Hände auf Ihre Seiten, wobei Ihre Handflächen nach unten zeigen.",
+            "Atmen Sie tief ein und ziehen Sie Ihren Bauchnabel zur Wirbelsäule ein. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Atmen Sie langsam aus und entspannen Sie sich. Achten Sie darauf, dass Sie Ihre Bauchmuskeln jederzeit angespannt halten.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Transverse_Abdominals_Training/0.jpg",
+            "Transverse_Abdominals_Training/1.jpg"
+        ],
+        "id": "Transverse_Abdominals_Training"
+    },
+    {
+        "name": "Tuck Crunch",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Beine gerade und die Arme hinter Ihrem Kopf ausgestreckt. Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie Ihren Oberkörper nach vorne und ziehen Sie Ihre Knie zur Brust. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Senken Sie langsam zur Ausgangsposition ab, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Tuck_Crunch/0.jpg",
+            "Tuck_Crunch/1.jpg"
+        ],
+        "id": "Tuck_Crunch"
+    },
+    {
+        "name": "Twisting Hip Raise",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Arme neben Ihren Seiten.",
+            "Beugen Sie nun Ihre Knie in einem Winkel von etwa 75 Grad und heben Sie Ihre Füße etwa 5 cm vom Boden ab.",
+            "Ziehen Sie mit Ihren unteren Bauchmuskeln Ihre Knie zu sich heran, während Sie den 75-Grad-Winkel in Ihren Beinen beibehalten. Fahren Sie mit dieser Bewegung fort, bis Sie Ihre Hüften durch Zurückrollen Ihres Beckens vom Boden abheben. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen. Tipp: Am Ende der Bewegung werden sich Ihre Knie über Ihrer Brust befinden.",
+            "Spannen Sie Ihre Bauchmuskeln am Höhepunkt der Bewegung für eine Sekunde an und drehen Sie Ihren Oberkörper leicht zur rechten Seite.",
+            "Kehren Sie dann langsam zur Ausgangsposition zurück, während Sie einatmen. Tipp: Behalten Sie jederzeit eine kontrollierte Bewegung bei.",
+            "Wiederholen Sie die Bewegung und drehen Sie Ihren Oberkörper diesmal zur linken Seite.",
+            "Fahren Sie abwechselnd auf diese Weise fort, bis alle empfohlenen Wiederholungen abgeschlossen sind."
+        ],
+        "category": "strength",
+        "images": [
+            "Twisting_Hip_Raise/0.jpg",
+            "Twisting_Hip_Raise/1.jpg"
+        ],
+        "id": "Twisting_Hip_Raise"
+    },
+    {
+        "name": "Twisting Sit-Up",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "hip flexors"
+        ],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Knie gebeugt mit einem Winkel von etwa 60 Grad zwischen Oberschenkeln und Waden.",
+            "Halten Sie Ihre Füße flach auf dem Boden und legen Sie Ihre Hände leicht an beide Seiten Ihres Kopfes, wobei Ihre Ellbogen innen bleiben. Tipp: Verriegeln Sie Ihre Finger nicht hinter Ihrem Kopf.",
+            "Rollen Sie nun Ihren Oberkörper nach vorne und drehen Sie Ihren Oberkörper zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Senken Sie langsam zur Ausgangsposition ab, während Sie einatmen.",
+            "Wiederholen Sie die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Fahren Sie abwechselnd auf diese Weise fort, bis alle empfohlenen Wiederholungen abgeschlossen sind."
+        ],
+        "category": "strength",
+        "images": [
+            "Twisting_Sit-Up/0.jpg",
+            "Twisting_Sit-Up/1.jpg"
+        ],
+        "id": "Twisting_Sit-Up"
+    },
+    {
+        "name": "Weighted Bench Hyperextension",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "dumbbell",
+        "primaryMuscles": [
+            "lower back"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings"
+        ],
+        "instructions": [
+            "Legen Sie sich mit dem Gesicht nach unten auf eine Bank, wobei der Hüftknochen über den Rand der Bank hinausragt. Lassen Sie Ihre Füße mit dem Boden in Kontakt und halten Sie eine Kurzhantel hinter Ihrem Kopf. Dies ist Ihre Ausgangsposition.",
+            "Senken Sie Ihren Oberkörper langsam, bis Ihre Oberschenkel und der Oberkörper fast senkrecht zum Boden stehen. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+            "Heben Sie Ihren Oberkörper langsam in die Ausgangsposition zurück, während Sie ausatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Bench_Hyperextension/0.jpg",
+            "Weighted_Bench_Hyperextension/1.jpg"
+        ],
+        "id": "Weighted_Bench_Hyperextension"
+    },
+    {
+        "name": "Weighted Cable Russian Twists",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "cable",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Befestigen Sie einen Standardgriff-Aufsatz und positionieren Sie das Kabel in einer mittleren Rollenposition.",
+            "Legen Sie sich auf einem Stabilitätsball senkrecht zum Kabel und greifen Sie den Griff mit einer Hand. Sie sollten ungefähr eine Armlänge von der Rolle entfernt sein, mit der Spannung des Gewichts auf dem Kabel.",
+            "Greifen Sie den Griff mit beiden Händen und strecken Sie Ihre Arme vollständig über Ihrer Brust aus. Ihre Hände sollten direkt in einer Linie mit der Rolle sein. Wenn nicht, stellen Sie die Rolle nach oben oder unten ein, bis sie es sind.",
+            "Halten Sie Ihre Hüften angehoben und Ihre Bauchmuskeln angespannt. Drehen Sie Ihren Oberkörper für eine volle Vierteldrehung von der Rolle weg. Ihr Körper sollte von Kopf bis Knie flach sein.",
+            "Halten Sie einen Moment inne und kehren Sie in einer langsamen und kontrollierten Weise zur Ausgangsposition zurück. Sie sollten in der Ruheposition immer noch seitliche Spannung auf dem Kabel haben.",
+            "Wiederholen Sie dieselbe Bewegung bis zum Versagen.",
+            "Positionieren Sie sich dann neu und wiederholen Sie dieselbe Bewegungsabfolge auf der gegenüberliegenden Seite."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Cable_Russian_Twists/0.jpg",
+            "Weighted_Cable_Russian_Twists/1.jpg"
+        ],
+        "id": "Weighted_Cable_Russian_Twists"
+    },
+    {
+        "name": "Weighted Decline Crunch",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "dumbbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Sichern Sie Ihre Beine am Ende der Negativbank und legen Sie sich hin.",
+            "Halten Sie eine Gewichtsscheibe oder eine Kurzhantel an Ihre Brust. Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie Ihren Oberkörper nach vorne und heben Sie Ihre Schulterblätter vom Boden ab. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Senken Sie langsam zur Ausgangsposition ab, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Decline_Crunch/0.jpg",
+            "Weighted_Decline_Crunch/1.jpg"
+        ],
+        "id": "Weighted_Decline_Crunch"
+    },
+    {
+        "name": "Weighted Decline Reverse Crunch",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Legen Sie sich auf dem Rücken auf eine Negativbank und halten Sie sich mit beiden Händen am oberen Ende der Bank fest. Lassen Sie Ihren Körper nicht von dieser Position nach unten rutschen.",
+            "Halten Sie Ihre Beine parallel zum Boden, indem Sie Ihre Bauchmuskeln benutzen, um sie dort zu halten, während Sie Ihre Knie und Füße zusammenhalten. Tipp: Ihre Beine sollten vollständig gestreckt sein mit einer leichten Beugung im Knie. Dies ist Ihre Ausgangsposition.",
+            "Bewegen Sie Ihre Beine beim Ausatmen in Richtung des Oberkörpers, während Sie Ihr Becken nach hinten rollen und Ihre Hüften von der Bank abheben. Am Ende dieser Bewegung berühren Ihre Knie Ihre Brust.",
+            "Halten Sie die Kontraktion eine Sekunde lang und bewegen Sie Ihre Beine beim Einatmen zurück zur Ausgangsposition.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Decline_Reverse_Crunch/0.jpg",
+            "Weighted_Decline_Reverse_Crunch/1.jpg"
+        ],
+        "id": "Weighted_Decline_Reverse_Crunch"
+    },
+    {
+        "name": "Weighted Floor Wiper",
+        "force": "pull",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back",
+            "shoulders"
+        ],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden und halten Sie eine leichte Langhantel mit gestreckten Armen über Ihrer Brust.",
+            "Heben Sie Ihre Beine an, bis sie senkrecht zum Boden stehen. Dies ist Ihre Ausgangsposition.",
+            "Senken Sie Ihre Beine langsam zur rechten Seite, bis sie fast den Boden berühren. Atmen Sie ein, während Sie diesen Teil der Bewegung ausführen.",
+            "Bringen Sie Ihre Beine langsam zurück in die Ausgangsposition, während Sie ausatmen.",
+            "Wiederholen Sie die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Fahren Sie abwechselnd auf diese Weise fort, bis alle empfohlenen Wiederholungen abgeschlossen sind."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Floor_Wiper/0.jpg",
+            "Weighted_Floor_Wiper/1.jpg"
+        ],
+        "id": "Weighted_Floor_Wiper"
+    },
+    {
+        "name": "Weighted Russian Twist",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "isolation",
+        "equipment": "medicine ball",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Setzen Sie sich auf den Boden mit gebeugten Knien und angehobenen Füßen. Halten Sie einen Medizinball mit ausgestreckten Armen vor sich.",
+            "Halten Sie Ihren Rücken gerade und drehen Sie Ihren Oberkörper langsam so weit wie möglich zur rechten Seite. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen.",
+            "Kehren Sie zur Ausgangsposition zurück, während Sie einatmen.",
+            "Wiederholen Sie nun die Bewegung zur linken Seite. Halten Sie die Kontraktion eine Sekunde lang.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Russian_Twist/0.jpg",
+            "Weighted_Russian_Twist/1.jpg"
+        ],
+        "id": "Weighted_Russian_Twist"
+    },
+    {
+        "name": "Weighted Side Bend",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "dumbbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Stellen Sie sich aufrecht hin und halten Sie eine Kurzhantel in der linken Hand (Handflächen zeigen zum Oberkörper), während die rechte Hand Ihre Taille hält. Ihre Füße sollten schulterbreit auseinander stehen. Dies ist Ihre Ausgangsposition.",
+            "Halten Sie Ihren Rücken gerade und Ihren Kopf oben, beugen Sie sich nur in der Taille so weit wie möglich nach rechts. Atmen Sie ein, während Sie sich zur Seite beugen. Halten Sie dann eine Sekunde inne und kommen Sie zur Ausgangsposition zurück, während Sie ausatmen. Tipp: Halten Sie den Rest des Körpers ruhig.",
+            "Wiederholen Sie nun die Bewegung, beugen Sie sich aber stattdessen nach links. Halten Sie eine Sekunde inne und kommen Sie zur Ausgangsposition zurück.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen und wechseln Sie dann die Hände."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Side_Bend/0.jpg",
+            "Weighted_Side_Bend/1.jpg"
+        ],
+        "id": "Weighted_Side_Bend"
+    },
+    {
+        "name": "Weighted Sit-Ups",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "dumbbell",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "hip flexors"
+        ],
+        "instructions": [
+            "Legen Sie sich flach auf den Boden, die Knie gebeugt mit einem Winkel von etwa 60 Grad zwischen Oberschenkeln und Waden.",
+            "Halten Sie Ihre Füße flach auf dem Boden und halten Sie eine Gewichtsscheibe oder eine Kurzhantel an Ihre Brust. Dies ist Ihre Ausgangsposition.",
+            "Rollen Sie nun Ihren Oberkörper nach vorne und heben Sie Ihre Schulterblätter vom Boden ab. Atmen Sie aus, während Sie diesen Teil der Bewegung ausführen, und halten Sie die Kontraktion eine Sekunde lang.",
+            "Senken Sie langsam zur Ausgangsposition ab, während Sie einatmen.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Sit-Ups/0.jpg",
+            "Weighted_Sit-Ups/1.jpg"
+        ],
+        "id": "Weighted_Sit-Ups"
+    },
+    {
+        "name": "Weighted Sit-Ups - With Bands",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "bands",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "hip flexors"
+        ],
+        "instructions": [
+            "Positionieren Sie Ihre Beine durch die Negativmaschine, bis sie gesichert sind. Greifen Sie nun mit beiden Händen nach den Übungsbändern. Verwenden Sie einen Obergriff (Handflächen nach vorne), um die Griffe zu fassen. Positionieren Sie sie in der Nähe Ihres Schlüsselbeins und drehen Sie Ihr Handgelenk in einen neutralen Griff (Handflächen zeigen zum Oberkörper). Hinweis: Ihre Arme sollten während der gesamten Übung ruhig bleiben. Dies ist die Ausgangsposition.",
+            "Bewegen Sie Ihren Oberkörper nach oben, bis Ihr Oberkörper beim Ausatmen senkrecht zum Boden steht. Halten Sie die Kontraktion eine Sekunde lang und senken Sie Ihren Oberkörper beim Einatmen wieder in die Ausgangsposition ab.",
+            "Wiederholen Sie dies für die empfohlene Anzahl von Wiederholungen."
+        ],
+        "category": "strength",
+        "images": [
+            "Weighted_Sit-Ups_-_With_Bands/0.jpg",
+            "Weighted_Sit-Ups_-_With_Bands/1.jpg"
+        ],
+        "id": "Weighted_Sit-Ups_-_With_Bands"
+    },
+    {
+        "name": "Wind Sprints",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Hängen Sie an einer Klimmzugstange mit einem Obergriff. Ihre Arme und Beine sollten gestreckt sein. Dies ist Ihre Ausgangsposition.",
+            "Beginnen Sie, indem Sie ein Knie so schnell wie möglich anheben. Schwingen Sie nicht mit Ihrem Körper oder Ihren Beinen.",
+            "Kehren Sie die Bewegung sofort um und bringen Sie das Bein in die Ausgangsposition zurück. Heben Sie gleichzeitig das gegenüberliegende Knie so hoch wie möglich an.",
+            "Fahren Sie abwechselnd mit den Beinen fort, bis der Satz abgeschlossen ist."
+        ],
+        "category": "strength",
+        "images": [
+            "Wind_Sprints/0.jpg",
+            "Wind_Sprints/1.jpg"
+        ],
+        "id": "Wind_Sprints"
+    }
+]
